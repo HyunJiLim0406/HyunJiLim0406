@@ -7,7 +7,7 @@ PI in 2020 Data Structure(02) 2020.09 - 12
 SW department OneStop tutor 2021.03 - current**  
 
 ## 🔭 I want to be a  
-**Backend developer
+**Backend developer**
 
 <!--
 **HyunJiLim0406/HyunJiLim0406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
