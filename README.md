@@ -10,7 +10,7 @@ SW department OneStop tutor 2021.03 - current**
 **Backend developer**  
 
 ## 🔭 Contact   
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyunjilim98@gmail.com)](mailto:hyunjilim98@gmail.com)
+**hyunjilim98@gmail.com**
 
 <!--
 **HyunJiLim0406/HyunJiLim0406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
