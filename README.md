@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[http://mazassumnida.wtf/api/v2/generate_badge?boj=iw0406](http://mazassumnida.wtf/api/v2/generate_badge?boj=iw0406)
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=iw0406">
 
-[https://github-readme-stats.vercel.app/api?username=HyunJiLim0406&count_private=true&show_icons=true&theme=buefy](https://github-readme-stats.vercel.app/api?username=HyunJiLim0406&count_private=true&show_icons=true&theme=buefy)
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=HyunJiLim0406&count_private=true&show_icons=true&theme=buefy" height="165">
