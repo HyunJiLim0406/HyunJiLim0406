@@ -13,8 +13,7 @@ SW department OneStop tutor 2021.03 - 06**
 
 ## 🔭 Contact
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:hyunjilim98@gmail.com)   
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://myunji.tistory.com/)   
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:hyunjilim98@gmail.com)   [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://myunji.tistory.com/)   
 
 <!--
 **HyunJiLim0406/HyunJiLim0406** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
