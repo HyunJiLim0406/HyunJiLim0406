@@ -5,7 +5,7 @@
 **Ewha Womans University CSE 2018.03 - current   
 Game development with KING 2019.03 - current   
 PI in 2020 Data Structure(02) 2020.09 - 12   
-SW department OneStop tutor 2021.03 - 06**   
+SW department OneStop tutor 2021.03 - current**   
 
 ## 🔭 Interested in
 
