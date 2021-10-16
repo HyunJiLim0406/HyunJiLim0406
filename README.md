@@ -6,9 +6,6 @@
 PI in 2020 Data Structure(02) 2020.09 - 12   
 SW department OneStop tutor 2021.03 - current**   
 
-## 🔭 Interested in
-
-**Backend**
 
 ## 🔭 Contact
 
