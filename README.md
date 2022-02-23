@@ -4,7 +4,7 @@
 
 **Game development with KING 2019.03 - current   
 PI in 2020 Data Structure(02) 2020.09 - 12   
-SW department OneStop tutor 2021.03 - current**   
+SW department OneStop tutor 2021.03 - 12**   
 
 
 ## 🔭 Contact
